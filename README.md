@@ -41,6 +41,14 @@ This project explores employee attrition patterns and workforce dynamics using s
 
 # ***Executive Summary*** 
 
+Employee attrition in the company stands at ~16.3%, with the highest turnover observed in specific roles and departments. Key factors like low job satisfaction, high business travel, limited training impact, and low manager ratings are contributing to the attrition problem. Age and tenure also play significant roles — younger employees (<30) are more likely to leave.
+
+Moreover, performance ratings do not necessarily correlate with training opportunities, revealing a gap in development outcomes. Several departments with lower average satisfaction scores (especially in job or relationship dimensions) also face higher attrition.
+
+A focused strategy on retention, manager effectiveness, and employee engagement is critical to stabilize the workforce.
+
+# ***Key Insights***
+
 1. **Overall Attrition Rate**:  
    - 16.3% of employees have left the company.
 
@@ -72,8 +80,6 @@ This project explores employee attrition patterns and workforce dynamics using s
 
 10. **Stock Options**:  
     - Higher levels (2–3) = **15–20% less attrition**
-
-
 
 # ***Recommendations***
 
