@@ -1,5 +1,7 @@
 # ***Employee Attrition & Workforce Report***
 
+![Image](Image.png)
+
 # ***Overview***
 This project explores employee attrition patterns and workforce dynamics using structured employee data. The goal is to identify key drivers of attrition and provide actionable insights to improve employee retention and organizational performance.
 
